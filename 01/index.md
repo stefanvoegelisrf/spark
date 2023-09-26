@@ -4,6 +4,7 @@
 
 - https://de.wikipedia.org/wiki/Informationstheorie
 - https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
+- https://www.rand.org/about/history/baran.html
 
 ## What is a medium?
 
