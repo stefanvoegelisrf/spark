@@ -5,15 +5,15 @@
 - https://de.wikipedia.org/wiki/Informationstheorie
 - https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
 
-## Was ist ein Medium?
+## What is a medium?
 
-Ein Medium ist ein Träger von Information.
+A medium is a carrier of information.
 
-Information kann viele Formen haben, Schrift, Bild usw. Eine CD ein Buch sind Beispiele von Medien.
+Information can have many forms like writings, images and so on. CDs or Books are examples of mediums.
 
-Stichwörter:
-- Sender
-- Empfänger
-- Kommunikation
-- Trägermedium
-- Kanal
+Keywords:
+- sender
+- receiver
+- communication
+- carrier medium
+- channel
