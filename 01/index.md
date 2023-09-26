@@ -7,6 +7,8 @@
 - [Paul Baran - Medium as web](https://www.rand.org/about/history/baran.html)
 - [Understanding Humans: The Extensions of Digital Media](https://www.mdpi.com/2078-2489/10/10/304)
 - [J. Gibson - The Instrumentality of Gibson's Medium as an Alternative to Space](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2039&context=clcweb)
+- [Understanding the blue church](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
+- [Blue Church vs. Red Religion](https://www.nickdewilde.com/the-blue-church-vs-the-red-religion-the-battle-for-how-we-make-sense/)
 
 ## What is a medium?
 
@@ -47,3 +49,6 @@ According to McLuhan, a medium is an expansion of our self and this applies to a
 - musical instruments
   - expressing emotion with it
 - tools
+
+## Blue church / red religion
+
