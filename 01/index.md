@@ -4,7 +4,9 @@
 
 - https://de.wikipedia.org/wiki/Informationstheorie
 - https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
-- https://www.rand.org/about/history/baran.html
+- [Paul Baran - Medium as web](https://www.rand.org/about/history/baran.html)
+- [Understanding Humans: The Extensions of Digital Media](https://www.mdpi.com/2078-2489/10/10/304)
+- [J. Gibson - The Instrumentality of Gibson's Medium as an Alternative to Space](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2039&context=clcweb)
 
 ## What is a medium?
 
@@ -20,3 +22,26 @@ There are input- and output-mediums. Input mediums could be cameras, keyboards a
 
 Normally a medium is used for communicating some kind of information from a sender to a receiver.
 
+Medium can be defined as channels, webs, spaces, expansion of the human.
+
+## What are expansions of man?
+
+- means of transportation
+  - car
+  - skateboard
+  - bicycle
+- assistive technologies
+  - hearing aids
+  - wheelchair
+  - prosthesis
+- technology
+  - mobile phone
+  - voice assistant
+  - chip implants
+- assistive persons
+  - working in a project as a lead
+  - persons that execute tasks for you
+- filter in digital photography
+- musical instruments
+  - expressing emotion with it
+- tools
