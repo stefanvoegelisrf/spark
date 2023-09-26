@@ -52,3 +52,13 @@ According to McLuhan, a medium is an expansion of our self and this applies to a
 
 ## Blue church / red religion
 
+[Jordan Hall on blue church and red religion](https://www.youtube.com/watch?v=_j3cCrpXERg&t=1269s&ab_channel=RebelWisdom)
+
+### Thoughts after watching it
+
+For me, the general idea of the "blue church" is hearing information in different ways that are spread over a large mass and taking it as given and not taking it in actively thinking about it or getting in a conversation with the sender. In the "blue church" is normally spread from top down.
+For example, Jordan Hall is referencing mass media like broadcast which is a way the "blue church" works. You have one sender and a large number of receivers. It is also mostly a one way communication and not much communication is coming back from the receivers. He also compares this to large scale lectures where you are thought from one person and listeners are only supposed to be listening. He is not talking about this in a way to say if it is good or bad, rather just analying it as a model.
+He also talks about information compression when information goes from bottom up and specialization when information is coming from top down. There are lots of good examples he talks about like general information like the melting point of metal. Of having general rules on the streets, so that everyone agrees that red signals to not to drive.
+An interesting point is, that this system is maybe not able to handle the mass amount of information that comes with a very globalized world.
+
+What's important for our society is to have mechanisms to be on the same page and be able to communicate and work together. This requires various sets of social behaviour, rules and common understandings. What our society also needs, is for all people to be able to perceive their surroundings and take a step back and look at it more actively. Our brain has a lot of automatisms that we aren't aware of and we sometimes need to trick. We can't do this all the time as it would be overwhelming for us to always perceive our surroundings very actively. It is also a very good quality to be able to shift your focus to something specific and ignore your surroundings. However, we should always be aware to never get into a loop or a habit to always take in information passively and not engage or observe actively in what is happening around us.
