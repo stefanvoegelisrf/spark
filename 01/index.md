@@ -24,6 +24,8 @@ Normally a medium is used for communicating some kind of information from a send
 
 Medium can be defined as channels, webs, spaces, expansion of the human.
 
+According to McLuhan, a medium is an expansion of our self and this applies to all new technologies.
+
 ## What are expansions of man?
 
 - means of transportation
