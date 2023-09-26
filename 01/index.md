@@ -2,8 +2,8 @@
 
 ## Resources
 
-- https://de.wikipedia.org/wiki/Informationstheorie
-- https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
+- [Informationstheorie](https://de.wikipedia.org/wiki/Informationstheorie)
+- [Das Kommunikationsquadrat](https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat)
 - [Paul Baran - Medium as web](https://www.rand.org/about/history/baran.html)
 - [Understanding Humans: The Extensions of Digital Media](https://www.mdpi.com/2078-2489/10/10/304)
 - [J. Gibson - The Instrumentality of Gibson's Medium as an Alternative to Space](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2039&context=clcweb)
