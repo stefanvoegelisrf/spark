@@ -2,10 +2,10 @@
 
 ## Resources
 
-
 ## Douglas Engelbart
 
 Douglas Carl Engelbart (January 30, 1925 – July 2, 2013) was an American engineer and inventor, and an early computer and Internet pioneer¹. He is best known for his work on founding the field of human–computer interaction¹. This resulted in the creation of the computer mouse, and the development of hypertext, networked computers, and precursors to graphical user interfaces¹. These were demonstrated at The Mother of All Demos in 1968¹. Engelbart's law, the observation that the intrinsic rate of human performance is exponential, is named after him¹.
+
 Douglas Engelbart's vision was to solve humanity's most important problems by harnessing our collective intelligence. He sought to augment human intellect and boost collective IQ, and his work has left a significant impact on the technological world¹.
 
 ### Augmenting the Human Intellect
