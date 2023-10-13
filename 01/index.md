@@ -1,5 +1,7 @@
 # 26.09.2023
 
+> Topic: What is a medium? Exodus from the blue church
+
 ## Resources
 
 - [Informationstheorie](https://de.wikipedia.org/wiki/Informationstheorie)

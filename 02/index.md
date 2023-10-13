@@ -1,5 +1,7 @@
 # 03.10.2023
 
+> Topic: Digital History, Cybernetics and co.
+
 ## Resources
 
 - [deutschlandfunkkultur - Ayn Rand](https://www.deutschlandfunkkultur.de/philosophische-orte-ayn-rand-schreibtisch-kapitalismus-100.html)

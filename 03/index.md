@@ -1,6 +1,14 @@
 # 10.10.2023
 
+> Topic: Digital media theory
+
 ## Resources
+
+- [eekim - What is OHS?](https://eekim.com/ohs/papers/whatisohs.html)
+- [frontiersin - Augmented Humans](https://www.frontiersin.org/research-topics/20591/augmented-humans)
+- [W3 - Engelbart](https://www.w3.org/Collaboration/EnglebartIOH.html.)
+- [Doug Engelbart - OHS](http://www.dougengelbart.org/about/ohs.html.)
+- [Doug Engelbart - Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)
 
 ## Douglas Engelbart
 
@@ -37,23 +45,3 @@ Engelbart coined the term "bootstrapping" to describe how whoever is working on 
 Engelbart coined the term "bootstrapping" to describe a strategy for systemic improvement. In this context, bootstrapping involves using the systems you are trying to improve as tools for their own improvement¹.
 
 > Example: Suppose you are developing a new software tool. You could use an early version of this tool to manage the project, track bugs, and coordinate the team's work. As you use the tool, you would likely identify areas for improvement, which you could then address in subsequent versions¹.
-
-Source:
-(1) Bootstrapping - Meaning, Stages, Examples, Pros & Cons - WallStreetMojo. https://www.wallstreetmojo.com/bootstrapping/.
-(2) What is bootstrapping? - Stack Overflow. https://stackoverflow.com/questions/1254542/what-is-bootstrapping.
-(3) What Is The Open Hyperdocument System? - eekim.com. https://eekim.com/ohs/papers/whatisohs.html.
-(4) Augmented Humans | Frontiers Research Topic. https://www.frontiersin.org/research-topics/20591/augmented-humans.
-(5) 15 Examples of Human Augmentation in Everyday Life - Fresh Consulting. https://www.freshconsulting.com/insights/blog/examples-of-human-augmentation/.
-(6) Frontiers | Editorial: Augmented humans. https://www.frontiersin.org/articles/10.3389/fcomp.2022.957927/full.
-(7) Companies That Succeeded With Bootstrapping - Investopedia. https://www.investopedia.com/articles/investing/082814/companies-succeeded-bootstrapping.asp.
-(8) Bootstrapping - javatpoint. https://www.javatpoint.com/bootstrapping.
-(9) Essential Elements of an Open Hyperdocument System. https://www.w3.org/Collaboration/EnglebartIOH.html.
-(10) About OHS - Doug Engelbart Institute. http://www.dougengelbart.org/about/ohs.html.
-(11) Open Hyperdocument System - Doug Engelbart. https://www.dougengelbart.org/archives/ohs/.
-(12) Augmenting Human Intellect: A Conceptual Framework - Doug Engelbart. https://www.dougengelbart.org/content/view/138/.
-(13) Human intelligence - Wikipedia. https://en.wikipedia.org/wiki/Human_intelligence.
-(14) Welcome - Doug Engelbart Institute. http://dougengelbart.org/.
-(15) Welcome - Doug Engelbart Institute. http://dougengelbart.org/.
-(16) The Engelbart Challenge - Doug Engelbart Institute. https://www.dougengelbart.org/challenge/.
-(17) Our Initiatives - Doug Engelbart Institute. https://www.dougengelbart.org/Initiatives.
-
