@@ -17,3 +17,4 @@
 ### What does Dirk Baecker mean with information- communication- and control-overflow?
 
 ### What properties and roles do image in the computer society have according to Dirk Baecker?
+
