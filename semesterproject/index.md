@@ -3,6 +3,7 @@
 - [Semester project](#semester-project)
   - [Audrey Tang](#audrey-tang)
     - [Resources](#resources)
+    - [Topics](#topics)
       - [Digital Democracy](#digital-democracy)
       - [Algorithmic Transparency](#algorithmic-transparency)
       - [Social Innovation](#social-innovation)
