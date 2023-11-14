@@ -3,16 +3,9 @@
 - [Semester project](#semester-project)
   - [Audrey Tang](#audrey-tang)
     - [Resources](#resources)
-    - [Topics](#topics)
       - [Digital Democracy](#digital-democracy)
-      - [Open Government](#open-government)
-      - [Civic Tech](#civic-tech)
-      - [Digital Inclusion](#digital-inclusion)
-      - [Open Source Software](#open-source-software)
       - [Algorithmic Transparency](#algorithmic-transparency)
       - [Social Innovation](#social-innovation)
-      - [Data Privacy](#data-privacy)
-      - [Youth Engagement](#youth-engagement)
 
 
 ## Audrey Tang
