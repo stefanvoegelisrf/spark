@@ -1,8 +1,27 @@
 # Semester project
 
+- [Semester project](#semester-project)
+  - [Audrey Tang](#audrey-tang)
+    - [Resources](#resources)
+    - [Topics](#topics)
+      - [Digital Democracy](#digital-democracy)
+      - [Open Government](#open-government)
+      - [Civic Tech](#civic-tech)
+      - [Digital Inclusion](#digital-inclusion)
+      - [Open Source Software](#open-source-software)
+      - [Algorithmic Transparency](#algorithmic-transparency)
+      - [Social Innovation](#social-innovation)
+      - [Data Privacy](#data-privacy)
+      - [Youth Engagement](#youth-engagement)
+
+
 ## Audrey Tang
 
-### Themen
+### Resources
+
+- [Tedx - Adurey Tang - Digital Social Innovation to Empower Democracy](https://www.ted.com/talks/audrey_tang_digital_social_innovation_to_empower_democracy)
+
+### Topics
 
 #### Digital Democracy
 Audrey Tang is a strong advocate for digital democracy, which involves using technology and open-source platforms to engage citizens in the decision-making process. They have played a key role in Taiwan's efforts to increase transparency and citizen participation in government through digital tools and online platforms.
@@ -12,7 +31,6 @@ Audrey Tang is known for their commitment to open government principles, which i
 
 #### Civic Tech
 Audrey Tang is a proponent of civic tech, which involves using technology to empower citizens and improve civic engagement. They have been involved in various civic tech projects and initiatives aimed at making government more responsive to the needs of the people.
-
 
 #### Digital Inclusion
 Audrey Tang has been a strong advocate for digital inclusion, ensuring that all members of society have access to and can benefit from digital technologies. They have worked on initiatives to bridge the digital divide and ensure that marginalized communities are not left behind in the digital age.
