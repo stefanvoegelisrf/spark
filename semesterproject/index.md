@@ -14,6 +14,9 @@
 ### Resources
 
 - [Tedx - Adurey Tang - Digital Social Innovation to Empower Democracy](https://www.ted.com/talks/audrey_tang_digital_social_innovation_to_empower_democracy)
+- [Beats Doebe - Audrey Tang](https://beat.doebe.li/bibliothek/p25230.html)
+- [MIT Technology Review - The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/)
+- [NZZ Magazin - «Ohne Reply-Taste gibt es keinen Raum für Trolle», sagt Taiwans Digitalministerin Audrey Tang](https://magazin.nzz.ch/international/audrey-tang-ohne-reply-taste-gibt-es-keinen-raum-fuer-trolle-ld.1593922?reduced=true)
 
 ### Topics
 
