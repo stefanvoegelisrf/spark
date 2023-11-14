@@ -1,5 +1,14 @@
 # 07.11.2023
 
+- [07.11.2023](#07112023)
+  - [Immersion](#immersion)
+    - [Strategies for Being Drawn into the Screen](#strategies-for-being-drawn-into-the-screen)
+    - [Strategies for Emerging from the Screen](#strategies-for-emerging-from-the-screen)
+    - [Strategies for Connecting Spaces](#strategies-for-connecting-spaces)
+    - [Strategies for Generating a Third Space](#strategies-for-generating-a-third-space)
+    - [Differentiating the Impact Levels](#differentiating-the-impact-levels)
+
+
 ## Immersion
 
 [Britta Neitzel - Facetten räumlicher Immersion in technischen Medien](facetten_raeumlicher_immersion_in_technischen_medien_-_britta_neitzel.pdf)
