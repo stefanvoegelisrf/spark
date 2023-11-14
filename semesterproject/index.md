@@ -12,6 +12,8 @@
 
 ### Resources
 
+### Topics
+
 #### Digital Democracy
 Audrey Tang is a strong advocate for digital democracy, which involves using technology and open-source platforms to engage citizens in the decision-making process. They have played a key role in Taiwan's efforts to increase transparency and citizen participation in government through digital tools and online platforms. Audrey Tang is known for their commitment to open government principles, which include transparency, accountability, and accessibility. They have worked to make government data and information more readily available to the public, allowing for greater scrutiny and engagement in the political process.
 Audrey Tang is known for their promotion of open-source software and the use of open standards in government systems. They have championed the adoption of open-source solutions in government, which can enhance transparency, reduce costs, and encourage collaboration.
