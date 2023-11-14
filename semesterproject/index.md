@@ -13,6 +13,8 @@
 
 ### Resources
 
+- [Tedx - Adurey Tang - Digital Social Innovation to Empower Democracy](https://www.ted.com/talks/audrey_tang_digital_social_innovation_to_empower_democracy)
+
 ### Topics
 
 #### Digital Democracy
