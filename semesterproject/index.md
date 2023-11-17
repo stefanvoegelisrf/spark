@@ -17,6 +17,7 @@
 - [Beats Doebe - Audrey Tang](https://beat.doebe.li/bibliothek/p25230.html)
 - [MIT Technology Review - The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/)
 - [NZZ Magazin - «Ohne Reply-Taste gibt es keinen Raum für Trolle», sagt Taiwans Digitalministerin Audrey Tang](https://magazin.nzz.ch/international/audrey-tang-ohne-reply-taste-gibt-es-keinen-raum-fuer-trolle-ld.1593922?reduced=true)
+- [YouTube - Audrey Tang | Stories From the Future of Democracy: Taiwan](https://www.youtube.com/watch?v=5DkhUO7LiGs)
 
 ### Topics
 
