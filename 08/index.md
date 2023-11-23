@@ -15,5 +15,9 @@ Read through [Republik - Chronologie der Schweizer Medienkonzentration](https://
 
 ### Medienkonzentration
 
+TODO:
+
 
 ### Netzwerkeffekte
+
+TODO:
