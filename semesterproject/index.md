@@ -47,11 +47,9 @@ Audrey Tang has also been a proponent of social innovation, encouraging citizens
 
 1. **Select a Media Theorist:** Choose a theorist from the SPARK module and identify three key themes or concepts. (Done)
 
-2. **Develop Your Digital Media Theory:** Based on SPARK ideas, create your theory with three subthemes or concepts.
+2. **Visualize Themes:** Use AI to create images for these themes, suitable for DI-Open display.
 
-3. **Visualize Themes:** Use AI to create images for these themes, suitable for DI-Open display.
+3. **Create Audioguides:** Develop audio tracks explaining each theme, with QR codes for access.
 
-4. **Create Audioguides:** Develop audio tracks explaining each theme, with QR codes for access.
-
-5. **Use AI Tools:** Utilize the Midjourney account for image creation and AI for audioguide production.
+4. **Use AI Tools:** Utilize the Midjourney account for image creation and AI for audioguide production.
 
