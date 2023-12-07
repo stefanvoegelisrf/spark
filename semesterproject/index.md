@@ -7,6 +7,7 @@
       - [Digital Democracy](#digital-democracy)
       - [Algorithmic Transparency](#algorithmic-transparency)
       - [Social Innovation](#social-innovation)
+    - [ToDo](#todo)
 
 
 ## Audrey Tang
@@ -24,6 +25,19 @@
 #### Digital Democracy
 Audrey Tang is a strong advocate for digital democracy, which involves using technology and open-source platforms to engage citizens in the decision-making process. They have played a key role in Taiwan's efforts to increase transparency and citizen participation in government through digital tools and online platforms. Audrey Tang is known for their commitment to open government principles, which include transparency, accountability, and accessibility. They have worked to make government data and information more readily available to the public, allowing for greater scrutiny and engagement in the political process.
 Audrey Tang is known for their promotion of open-source software and the use of open standards in government systems. They have championed the adoption of open-source solutions in government, which can enhance transparency, reduce costs, and encourage collaboration.
+
+Twice a month, for petitions that gather 5,000 signatures, we hold face-to-face collaborative meetings across related ministries to explore ways to incorporate them into policymaking. In this way, even those who are too young to vote can nevertheless have a way to start a movement and set a norm.
+The g0v manifesto and its implementation through various projects significantly contribute to digital democracy.
+1. **Integration of Online and Offline Activism**: g0v combines digital tools with real-world activism, drawing inspiration from the Free Software community. This approach transforms social media into a platform for collaborative social production.
+2. **Proactive Governance Philosophy**: The manifesto encourages individuals to take initiative in solving societal issues, embodying a "you are the 'nobody'" attitude. This empowers citizens to become active participants in governance.
+3. **Diverse Community Activities**: g0v organizes events like hackathons and meetups, inviting collaboration from various fields beyond just tech experts. These gatherings facilitate idea exchange and project development.
+4. **Development of Civic Tools**: Key projects include:
+   - **MoeDict**: A digital Chinese dictionary aiding language learning and accessibility.
+   - **Cofacts**: A collaborative fact-checking bot designed to combat misinformation.
+   - **Airmap**: An open-source platform for crowdsourcing air pollution data, enhancing environmental awareness.
+5. **Global Expansion**: The movement has extended its reach to Hong Kong and Italy, promoting its principles of open governance and citizen participation internationally.
+These principles and projects democratize information and governance, fostering a culture of transparency and public engagement in Taiwan. They provide platforms for citizens to actively participate in policy-making and societal improvement, enhancing the quality of democracy.
+As for the participation rate of Taiwanese people in g0v, while exact numbers are difficult to ascertain, the movement's widespread influence and the success of its projects suggest a significant level of engagement among the public.
 
 #### Algorithmic Transparency
 Algorithmic transparency refers to the openness and understandability of the algorithms used in various sectors, particularly in government, public policy, and businesses. This concept is increasingly important in a world where algorithms influence everything from social media feeds to credit scores and legal decisions. The essence of algorithmic transparency lies in making these algorithms understandable and accountable to the public.
